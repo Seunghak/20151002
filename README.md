@@ -1,6 +1,6 @@
 # 20151002
 
-hadoop 설치 및 설정 방법
+hadoop 설치 및 설정 및 실행하기
 
 자바가 설치된 후에 hadoop 계정 추가하고 root에서 hadoop으로 옮겨간 후 명령어들을 실행
     useradd hadoop
